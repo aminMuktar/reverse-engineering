@@ -83,7 +83,8 @@ A curated list of awesome reversing resources
 * [Malware Blacklist](http://www.malwareblacklist.com/showMDL.php)
 * [malwr.com](https://malwr.com/)
 * [vxvault](http://vxvault.net/)
-
+* [vx-undeground](https://vx-underground.org)
+* 
 ## Hex Editors
 
 *Hex Editors*
@@ -121,7 +122,8 @@ A curated list of awesome reversing resources
 * [Capstone](http://www.capstone-engine.org/)
 * [objdump](http://linux.die.net/man/1/objdump)
 * [fREedom](https://github.com/cseagle/fREedom)
-
+* [cutter-r2](https://cutter.re)
+ 
 ## Binary Analysis
 
 *Binary Analysis Resources*
